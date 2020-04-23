@@ -54,6 +54,8 @@
   <project name="android_vendor_microg" path="vendor/microg" remote="ANDROID2468" revision="master" />
   <!-- proprietary apps -->
   <project name="ANDROID24681/proprietary_vendor_apps" path="vendor/apps" remote="gitlab" revision="master" />
-
-
+  <!-- build script -->
+  <project path="vendor/android2468" name="ANDROID2468/issues_potato" groups="master" >
+    <linkfile src="build.sh" dest="build.sh" />
+  
 </manifest>
