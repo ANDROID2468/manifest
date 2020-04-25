@@ -4,8 +4,8 @@
   <remote name="github"
           fetch="https://github.com" />
   
-  <remote  name="GitHub"
-          fetch="https://github.com/" />
+  <remote  name="potatoFix"
+          fetch="https://github.com/ANDROID2468/" />
 
 
   <remote name="potato"
