@@ -4,8 +4,9 @@
   <remote name="github"
           fetch="https://github.com" />
   
-  <remote  name="potatoFix"
-          fetch="https://github.com/ANDROID2468/" />
+  <remote name="potatoFix"
+          fetch="https://github.com/ANDROID2468/" 
+          revision="refs/heads/baked-release" />
 
 
   <remote name="potato"
