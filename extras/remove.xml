@@ -115,6 +115,8 @@
   <remove-project name="platform/system/sepolicy" />
   <remove-project name="platform/system/vold" />
   <remove-project name="platform/system/update_engine" />
-  <!-- using Simple Gallery Pro insted of this one-->
+  <!-- using Simple Gallery Pro insted of this one: https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/ -->
   <remove-project name="platform/packages/apps/Gallery2" />
+  <!-- using Modded Google Camera by BSG: https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/ -->
+  <remove-project name="platform/packages/apps/Camera2" />
 </manifest>
