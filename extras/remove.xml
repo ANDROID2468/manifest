@@ -116,5 +116,5 @@
   <remove-project name="platform/system/vold" />
   <remove-project name="platform/system/update_engine" />
   <!-- using Simple Gallery Pro insted of this one-->
-  <remove-project name="packages/apps/Gallery2" />
+  <remove-project name="platform/packages/apps/Gallery2" />
 </manifest>
