@@ -26,15 +26,15 @@
   <project name="external_selinux"               path="external/selinux"               remote="potato" />
   <project name="external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="potato" />
   <project name="external_tinycompress"          path="external/tinycompress"          remote="potato" />
-  <project name="frameworks_av"                  path="frameworks/av"                  remote="potatoFix" />
-  <project name="frameworks_base"                path="frameworks/base"                remote="potatoFix" />
+  <project name="frameworks_av"                  path="frameworks/av"                  remote="potato" />
+  <project name="frameworks_base"                path="frameworks/base"                remote="potato" />
   <project name="frameworks_compile_mclinker"    path="frameworks/compile/mclinker"    remote="potato" />
-  <project name="frameworks_native"              path="frameworks/native"              remote="potatoFix" />
+  <project name="frameworks_native"              path="frameworks/native"              remote="potato" />
   <project name="frameworks_opt_net_ims"         path="frameworks/opt/net/ims"         remote="potato" />
   <project name="frameworks_opt_net_wifi"        path="frameworks/opt/net/wifi"        remote="potato" />
-  <project name="frameworks_opt_telephony"       path="frameworks/opt/telephony"       remote="potatoFix" />
+  <project name="frameworks_opt_telephony"       path="frameworks/opt/telephony"       remote="potato" />
   <project name="frameworks_potato"              path="frameworks/potato"              remote="potato" />
-  <project name="hardware_interfaces"            path="hardware/interfaces"            remote="potatoFix" />
+  <project name="hardware_interfaces"            path="hardware/interfaces"            remote="potato" />
   <project name="hardware_custom_telephony"      path="hardware/custom/telephony"      remote="potato" />
   <project name="hardware_libhardware"           path="hardware/libhardware"           remote="potato" />
   <project name="hardware_libhardware_legacy"    path="hardware/libhardware_legacy"    remote="potato" />
@@ -52,12 +52,12 @@
   <project name="packages_apps_Settings"         path="packages/apps/Settings"         remote="potato" />
   <project name="packages_apps_WeatherClient"    path="packages/apps/WeatherClient"    remote="potato" />
   <project name="packages_services_Telecomm"     path="packages/services/Telecomm"     remote="potato" />
-  <project name="packages_services_Telephony"    path="packages/services/Telephony"    remote="potatoFix" />
+  <project name="packages_services_Telephony"    path="packages/services/Telephony"    remote="potato" />
   <project name="prebuilts_build-tools"          path="prebuilts/build-tools"          remote="potato" />
   <project name="prebuilts_gradle"               path="prebuilts/gradle"               remote="potato" />
-  <project name="system_bt"                      path="system/bt"                      remote="potatoFix" />
+  <project name="system_bt"                      path="system/bt"                      remote="potato" />
   <project name="system_connectivity_wificond"   path="system/connectivity/wificond"   remote="potato" />
-  <project name="system_core"                    path="system/core"                    remote="potatoFix" />
+  <project name="system_core"                    path="system/core"                    remote="potato" />
   <project name="system_netd"                    path="system/netd"                    remote="potato" />
   <project name="system_sepolicy"                path="system/sepolicy"                remote="potato" />
   <project name="system_vold"                    path="system/vold"                    remote="potato" />
