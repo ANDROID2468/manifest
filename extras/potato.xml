@@ -82,7 +82,7 @@
   <project name="android_external_libnfc-nxp"                       path="external/libnfc-nxp"                       remote="lineage" />
   <project name="android_vendor_codeaurora_telephony"               path="vendor/codeaurora/telephony"               remote="lineage" />
   <project name="android_vendor_nxp_interfaces_opensource_nfc"      path="vendor/nxp/opensource/interfaces/nfc"      remote="lineage" />
-  <project name="android_vendor_qcom_opensource_data-ipa-cfg-mgr"   path="vendor/qcom/opensource/data-ipa-cfg-mgr"   remote="lineage" />
+  <!-- <project name="android_vendor_qcom_opensource_data-ipa-cfg-mgr"   path="vendor/qcom/opensource/data-ipa-cfg-mgr"   remote="lineage" /> -->
 
   <project path="vendor/nxp/opensource/commonsys/external/libnfc-nci" name="android_vendor_nxp_opensource_external_libnfc-nci" remote="lineage" />
   <project path="vendor/nxp/opensource/commonsys/frameworks" name="android_vendor_nxp_opensource_frameworks" remote="lineage" />
@@ -94,4 +94,8 @@
   <!-- Others -->
   <project name="flutter/flutter" path="external/flutter" revision="v1.9.1-hotfixes" remote="github" />
   <project name="AgentFabulous/PotatoCenter" path="packages/apps/PotatoCenter" revision="refs/heads/baked-release" remote="github" />
+  <!-- backup solution without google deps -->
+  <project path="packages/apps/Backup" name="stevesoltys/backup" remote="github" revision="master" />
+  <!-- proprietary apps -->
+  <project name="ANDROID2468/proprietary_vendor_apps" path="vendor/apps" remote="gitlab" revision="master" />
 </manifest>

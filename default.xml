@@ -8,6 +8,22 @@
           fetch="https://github.com/ANDROID2468/" 
           revision="refs/heads/baked-release" />
 
+  <remote  name="lineage2"
+           fetch="https://github.com/lineageOS/" />
+
+  <remote  name="aoscp"
+           fetch="https://github.com/CypherOS/"
+           revision="poundcake-release" />
+
+  <remote  name="suicide"
+           fetch="https://github.com/Suicide-Squirrel/"
+           revision="lineage-16.0" />
+
+  <remote  name="ANDROID2468"
+           fetch="https://github.com/ANDROID2468/" />
+
+  <remote name="gitlab"
+          fetch="https://gitlab.com/" />
 
   <remote name="potato"
           fetch="https://github.com/PotatoProject"
