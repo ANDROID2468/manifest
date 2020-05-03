@@ -8,6 +8,10 @@
           fetch="https://github.com/ANDROID2468/" 
           revision="refs/heads/baked-release" />
 
+  <remote name="bit"
+          fetch="https://bitbucket.org/" 
+          revision="baked-release"/>
+
   <remote  name="lineage2"
            fetch="https://github.com/lineageOS/" />
 
