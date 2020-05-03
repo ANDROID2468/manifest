@@ -9,7 +9,7 @@
           revision="refs/heads/baked-release" />
 
   <remote name="bit"
-          fetch="https://bitbucket.org/" 
+          fetch="https://bitbucket.org/ANDROID2468/" 
           revision="baked-release"/>
 
   <remote  name="lineage2"
