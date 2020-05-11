@@ -24,7 +24,7 @@ Requirements
     H810 ([URL="http://bit.do/unlockg4"]UsU'd[/URL])
     H811
     H812 ([URL="http://bit.do/unlockg4"]UsU'd[/URL])
-    H815 (official unlocked or UsU'd)
+    H815 (official unlocked or [url=https://forum.xda-developers.com/g4/general/unlock-unlock-lg-g4-device-usu-t3760451]UsU'd[/url])
     H819 ([URL="http://bit.do/unlockg4"]UsU'd[/URL])
     VS986 ([URL="http://bit.do/unlockg4"]UsU'd[/URL])
     Latest TWRP - PREVIEW build: [URL="http://leech.binbash.rocks:8008/TWRP/P/"]click[/URL] [B]OR[/B]  [URL="https://forum.xda-developers.com/g4/development/recovery-sky-hawk-recovery-project-2-2-t4074497"]Sky Hawk Recovery[/URL]
@@ -128,6 +128,8 @@ Design:
 - [url=https://play.google.com/store/apps/details?id=com.musicplayer.blackplayerfree&hl=en]BlackPlayer[/url] (music player)
 - [url=https://f-droid.org/]F-Droid[/url]
 - [url=https://www.xda-developers.com/xda-labs/]XdaLabs[/url]
+- [url=https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/] BSG's moded google camera[/url]
+- [url=https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/]simple gallery pro[/url]
 
 [IMG]https://i.imgur.com/pu9uPn9.png[/IMG]
 [B]POSP:[/B] [URL="https://github.com/PotatoProject"]PotatoProject[/URL]
