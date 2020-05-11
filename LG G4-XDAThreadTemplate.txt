@@ -146,8 +146,8 @@ Design:
 [B]Note:[/B]all devices except vs986 are untested (I don't own them to test them) If they don't work please let me know.
 ROM: 
 [LIST]
-[*][URL="https://androidfilehost.com/?w=files&flid=308740"]AndroidFileHost[/URL]
-[*][URL="https://mega.nz/folder/3YpDyJBQ#dRHtxtz_MrE6uHjZQgCadQ"]Mega[/URL]
+[*][B][SIZE="6"][URL="https://androidfilehost.com/?w=files&flid=308740"]AndroidFileHost[/URL][/SIZE][/B]
+[*][B][SIZE="6"][URL="https://mega.nz/folder/3YpDyJBQ#dRHtxtz_MrE6uHjZQgCadQ"]Mega[/URL][/SIZE][/B]
 [/LIST]
 GApps: [URL="https://opengapps.org/"]here[/URL]
 
