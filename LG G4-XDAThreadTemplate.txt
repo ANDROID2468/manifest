@@ -122,12 +122,12 @@ Design:
 - More in the works :D
 
 [B]Added stuff by me ;) [/B]
-- microG (by the installer)
-- MiXplorer (file explorer)
-- Bromite web browser
-- BlackPlayer (music player)
-- F-Droid
-- XdaLabs
+- [url=https://microg.org/]microG[/url] (by the installer)
+- [url=https://forum.xda-developers.com/showthread.php?p=23109280#post23109280]MiXplorer[/url] (file explorer)
+- [url=https://www.bromite.org/]Bromite web browser[/url]
+- [url=https://play.google.com/store/apps/details?id=com.musicplayer.blackplayerfree&hl=en]BlackPlayer[/url] (music player)
+- [url=https://f-droid.org/]F-Droid[/url]
+- [url=https://www.xda-developers.com/xda-labs/]XdaLabs[/url]
 
 [IMG]https://i.imgur.com/pu9uPn9.png[/IMG]
 [B]POSP:[/B] [URL="https://github.com/PotatoProject"]PotatoProject[/URL]
@@ -150,7 +150,9 @@ ROM:
 [*][URL="https://mega.nz/folder/3YpDyJBQ#dRHtxtz_MrE6uHjZQgCadQ"]Mega[/URL]
 [/LIST]
 GApps: [URL="https://opengapps.org/"]here[/URL]
+
 Credits
+- POSP Team for potato OS
 - Google for AOSP
 - Team Potato
 - AOSiP
@@ -160,10 +162,13 @@ Credits
 - LineageOS
 - Team Lawnchair for Lawnchair Launcher
 - The  Suicide-Squirrel team (for device tree, Kernel, etc) without them this wouldn't be possible 
- [URL="https://forum.xda-developers.com/member.php?u=5545101"]steadfasterX[/URL] 
- [URL="https://forum.xda-developers.com/member.php?u=5461026"]kessaras[/URL]
- [URL="https://forum.xda-developers.com/member.php?u=8699949"]ThePiGuy[/URL]
- [URL="https://forum.xda-developers.com/member.php?u=4956374"]aoleary[/URL]
+[LIST]
+[*][URL="https://forum.xda-developers.com/member.php?u=5545101"]steadfasterX[/URL] 
+[*][URL="https://forum.xda-developers.com/member.php?u=5461026"]kessaras[/URL]
+[*][URL="https://forum.xda-developers.com/member.php?u=8699949"]ThePiGuy[/URL]
+[*][URL="https://forum.xda-developers.com/member.php?u=4956374"]aoleary[/URL]
+[*]and anyone else who is not listed here...
+[/LIST]
     and anyone else who is not listed here...
 
 [URL="https://github.com/ANDROID2468/issues_potato/issues"]Bugs [/URL]
