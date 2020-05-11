@@ -1,0 +1,172 @@
+[IMG]https://i.imgur.com/tmt6SBG.png[/IMG]
+
+[CODE]#include <std_disclaimer.h>
+/*
+ * Your warranty is... still valid? 
+ *
+ * I am not responsible for bricked devices, dead SD cards,
+ * thermonuclear war, or you getting fired because the alarm app failed. Please
+ * do some research if you have any concerns about features included in this ROM
+ * before flashing it! YOU are choosing to make these modifications, and if
+ * you point the finger at me for messing up your device, I will laugh at you.
+ */[/CODE]
+ 
+ [B]**** These builds are for both: official unlocked and UsU'd devices ****[/B]
+
+[B]UsU?[/B] [URL]http://bit.do/unlockg4[/URL]
+
+Requirements
+
+    Your device need to be unlocked either officially (h815 international or h811) or by UsU
+    Your bootloader stack should be on MM 20p (20x for H811) or higher! (see FAQ #8 for how to upgrade your bootloader stack witbout lgup).
+    .... and for your convenience steadfasterX have alternatively created [URL="http://leech.binbash.rocks:8008/stock/LG/"]TWRP flashable files for that !!!! (click) [/URL]
+    in particular that means this thread is for:
+    H810 ([URL="http://bit.do/unlockg4"]UsU'd[/URL])
+    H811
+    H812 ([URL="http://bit.do/unlockg4"]UsU'd[/URL])
+    H815 (official unlocked or UsU'd)
+    H819 ([URL="http://bit.do/unlockg4"]UsU'd[/URL])
+    VS986 ([URL="http://bit.do/unlockg4"]UsU'd[/URL])
+    Latest TWRP - PREVIEW build: [URL="http://leech.binbash.rocks:8008/TWRP/P/"]click[/URL] [B]OR[/B]  [URL="https://forum.xda-developers.com/g4/development/recovery-sky-hawk-recovery-project-2-2-t4074497"]Sky Hawk Recovery[/URL]
+    Do a full Nandroid backup before doing anything!
+
+[IMG]https://i.imgur.com/0nCo5rk.png[/IMG]
+Team Potato:
+[hide]
+ [URL="https://forum.xda-developers.com/member.php?u=5834335"]Agent_fabulous[/URL]
+ [URL="https://forum.xda-developers.com/member.php?u=7820560"]ZerNico[/URL]
+ [URL="https://forum.xda-developers.com/member.php?u=5614198"]raj_jdja[/URL]
+ [URL="https://forum.xda-developers.com/member.php?u=6763765"]ShreyanshLodha[/URL]
+ [URL="https://forum.xda-developers.com/member.php?u=5854483"]akhilnarang[/URL]
+ [URL="https://forum.xda-developers.com/member.php?u=7049589"]deletescape[/URL]
+ [URL="https://forum.xda-developers.com/member.php?u=8681386"]HrX[/URL]
+ [URL="https://forum.xda-developers.com/member.php?u=5912585"]JagravNaik[/URL]
+Design:
+ [URL="https://forum.xda-developers.com/member.php?u=7135377"]McAwesomePL[/URL]
+ [URL="https://www.youtube.com/channel/UCkzhkIspDgx1HsUnA2oeUqA"]Valvze[/URL]
+ Joshua Baldassarre
+[/hide]
+
+[IMG]https://i.imgur.com/sbEj6cV.png[/IMG]
+[B]Vanilla POSP[/B]
+
+[B]Statusbar[/B]
+- Statusbar icons customization
+- Battery icon styles
+- Clock settings
+- Smart Clock
+- Battery icon customization
+- Roaming icon toggle
+- VoLTE icon toggle
+- Double tap to wake toggle
+- Potato icon in statusbar
+
+[B]Quick Settings[/B]
+- QS rows and columns customization
+- Quick QS pulldown
+- Network traffic indicators
+- Bottom brightness slider toggle
+- Tile titles toggle
+- Brightness Control toggle
+
+[B]Themes[/B]
+- RGB accent picker
+- Base theme changer
+- Wallpaper/Light/Dark switching
+- Black themes
+- Oreo settings icon (Tintable with accent
+- Rounded corner customization
+- Corner padding customization
+- Oreo style QS panel
+- QS Transparency
+- Custom QS Colors
+- QS Colors - Wallpaper matching
+- QS Colors - Default restore (For theme engines)
+
+[B]Buttons and Gestures[/B]
+- HW-key remapping (if applicable)
+- Navigation bar toggling
+- Gestures (Jump to camera, Swipe up on Home button, Lift to check phone, Prevent ringing)
+- Power menu customization (Restart button, Advanced restart options, Lockdown, Screenshot)
+- Volume key playback controls
+
+[B]Notifications[/B]
+- Heads up notification toggle
+- Peeking notification timeout
+- Snooze timer
+- Stoplist (disable heads up notifications in certain apps)
+- Blacklist (disable heads up notifications from certain apps)
+
+[B]Lockscreen[/B]
+- Media cover art
+- Lockscreen album art filter (Grayscale,Accent,Blur,Grayscale and Blur)
+- Double tap to sleep
+- Face auto unlock
+- Lockscreen clock style (Digital,Sammy with/without accents and bold,Ananlog,Text{Q style})
+
+[B]Miscellaneous[/B]
+- In-call vibrations
+- Lawnchair Launcher
+- QuickStep/LawnStep
+- Aggressive Battery
+- Device uptime and deep sleep info
+- New ambient play style
+- WPS connectivity options
+- IMEI info in sim status
+- Dogbin error reporting
+- Notification LED changes
+- Quick unlock (Security)
+- Pin scramble (Security)
+- Pattern grid sizes (Security)
+- CPU Info overlay (Developer Options)
+- More in the works :D
+
+[B]Added stuff by me ;) [/B]
+- microG (by the installer)
+- MiXplorer (file explorer)
+- Bromite web browser
+- BlackPlayer (music player)
+- F-Droid
+- XdaLabs
+
+[IMG]https://i.imgur.com/pu9uPn9.png[/IMG]
+[B]POSP:[/B] [URL="https://github.com/PotatoProject"]PotatoProject[/URL]
+[B]POSP Device Sources:[/B] [URL="https://github.com/PotatoDevices"]PotatoDevices[/URL]
+[B]POSP Code Review:[/B] [URL="https://review.potatoproject.co"]Gerrit Code Review[/URL]
+
+[IMG]https://i.imgur.com/4VwptB9.png[/IMG]
+[SIZE=+1][b]Clean Install[/b][/SIZE]
+- Backup all your data (Important)
+- Wipe data
+- Flash potato os for your device
+- Install [URL="https://github.com/topjohnwu/Magisk/releases/tag/v20.4"]Magisk[/URL] (if you want root!)
+- Reboot to tasty potatoes!
+
+[IMG]https://i.imgur.com/0CoQ9DZ.png[/IMG]
+[B]Note:[/B]all devices except vs986 are untested (I don't own them to test them) If they don't work please let me know.
+ROM: 
+[LIST]
+[*][URL="https://androidfilehost.com/?w=files&flid=308740"]AndroidFileHost[/URL]
+[*][URL="https://mega.nz/folder/3YpDyJBQ#dRHtxtz_MrE6uHjZQgCadQ"]Mega[/URL]
+[/LIST]
+GApps: [URL="https://opengapps.org/"]here[/URL]
+Credits
+- Google for AOSP
+- Team Potato
+- AOSiP
+- CarbonROM
+- Dirty Unicorns
+- OmniROM
+- LineageOS
+- Team Lawnchair for Lawnchair Launcher
+- The  Suicide-Squirrel team (for device tree, Kernel, etc) without them this wouldn't be possible 
+ [URL="https://forum.xda-developers.com/member.php?u=5545101"]steadfasterX[/URL] 
+ [URL="https://forum.xda-developers.com/member.php?u=5461026"]kessaras[/URL]
+ [URL="https://forum.xda-developers.com/member.php?u=8699949"]ThePiGuy[/URL]
+ [URL="https://forum.xda-developers.com/member.php?u=4956374"]aoleary[/URL]
+    and anyone else who is not listed here...
+
+[URL="https://github.com/ANDROID2468/issues_potato/issues"]Bugs [/URL]
+- [vs986 only] [URL="https://github.com/Suicide-Squirrel/issues_pie/issues/41"]most verizon plans (some, now work, like mine) can't send/receive phone calls/SMS [/URL]
+    if your aren't abble to make a phone call while you got signal then it won't work (you got to make a phone call every reboot!)
+- any issue from [URL="https://github.com/Suicide-Squirrel/issues_pie/issues"]here[/URL] will likely be in this rom
