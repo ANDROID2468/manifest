@@ -2,6 +2,9 @@
 <img src="https://i.imgur.com/tmt6SBG.png">
 Haters gonna hate, potatoes gonna potate!
 
+# This is for the LG G4
+![LG G4](https://raw.githubusercontent.com/ANDROID2468/issues_potato/master/lge_potato.png "LG G4")
+
 Credits
 -------
  * [**AOSP**](https://android.googlesource.com)
