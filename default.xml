@@ -3,10 +3,6 @@
 
   <remote name="github"
           fetch="https://github.com" />
-  
-  <remote name="potatoFix"
-          fetch="https://github.com/ANDROID2468/" 
-          revision="refs/heads/baked-release" />
 
   <remote name="bit"
           fetch="https://bitbucket.org/ANDROID2468/" 
@@ -23,8 +19,8 @@
            fetch="https://github.com/Suicide-Squirrel/"
            revision="lineage-16.0" />
 
-  <remote  name="ANDROID2468"
-           fetch="https://github.com/ANDROID2468/" />
+  <remote  name="LG-G4-POSP"
+           fetch="https://github.com/LG-G4-POSP/" />
 
   <remote name="gitlab"
           fetch="https://gitlab.com/" />

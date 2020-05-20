@@ -46,8 +46,8 @@
 
   <!-- DEVICE TREES
   #####################################################-->
-  <project name="android_device_lge_g4-common" path="device/lge/g4-common" remote="ANDROID2468" revision="potato-9.0" />
-  <project name="android_device_lge_g4" path="device/lge/g4" remote="ANDROID2468" revision="potato-9.0" />
+  <project name="android_device_lge_g4-common" path="device/lge/g4-common" remote="LG-G4-POSP" revision="potato-9.0" />
+  <project name="android_device_lge_g4" path="device/lge/g4" remote="LG-G4-POSP" revision="potato-9.0" />
 
   <!-- LOS STUFF
   #####################################################-->
