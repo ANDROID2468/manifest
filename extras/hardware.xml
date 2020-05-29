@@ -58,6 +58,11 @@
   #####################################################-->
   <project path="vendor/lge" name="proprietary_vendor_lge" remote="suicide" revision="android-9.0" />
 
+  <!-- Broadcom BT voice FIX
+  #####################################################-->
+  <project name="android_hardware_broadcom_libbt" path="hardware/broadcom/libbt" remote="suicide" />
+
+
   <!-- build script -->
   <project path="vendor/g4_buildScripts" name="g4_buildScripts" revision="potatoOS" remote="ANDROID2468" >
     <linkfile src="buildAll.sh" dest="buildAll.sh" />
