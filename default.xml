@@ -3,6 +3,20 @@
   <remote name="github"
           fetch="https://github.com" />
 
+  <remote  name="suicide"
+           fetch="https://github.com/Suicide-Squirrel/"
+           revision="lineage-16.0" />
+
+  <remote  name="LG-G4-POSP"
+           fetch="https://github.com/LG-G4-POSP/" />
+
+  <remote  name="ANDROID2468"
+           fetch="https://github.com/ANDROID2468/" />
+
+
+  <remote name="gitlab"
+          fetch="https://gitlab.com/" />
+
   <remote name="gitlab"
           fetch="https://gitlab.com" />
 
@@ -804,5 +818,5 @@
   <!-- Potato Additions -->
   <include name="extras/potato.xml" />
   <include name="extras/lineage.xml" />
-
+  <include name="extras/g4.xml" />
 </manifest>

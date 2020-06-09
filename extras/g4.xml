@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+  <!-- | LG G4 stuff | -->
+  <!-- KERNEL
+  #####################################################-->
+  <project name="Titan-Kernel-LG-G4" path="kernel/lge/msm8992" remote="suicide" revision="android-10.0_kessaras" />
+
+  <!-- DEVICE TREES
+  #####################################################-->
+  <project name="android_device_lge_g4-common" path="device/lge/g4-common" remote="suicide" revision="lineage-17.0_kessaras" />
+  <project name="android_device_lge_g4" path="device/lge/g4" remote="LG-G4-POSP" revision="potato-10" />
+
+  <!-- LOS STUFF
+  #####################################################-->
+  <project path="hardware/sony/timekeep" name="android_hardware_sony_timekeep" remote="lineage2" revision="lineage-17.1" />
+  <project path="system/qcom/" name="PotatoProject/system_qcom" groups="qcom" remote="github" revision="baked-release"/>
+
+  <!-- MISC
+  #####################################################-->
+  <project path="vendor/lge" name="proprietary_vendor_lge" remote="suicide" revision="android-9.0" />
+
+  <!-- Broadcom BT voice FIX
+  #####################################################-->
+  <!-- <project name="android_hardware_broadcom_libbt" path="hardware/broadcom/libbt" remote="suicide" /> -->
+
+
+  <!-- build script -->
+  <project path="vendor/g4_buildScripts" name="g4_buildScripts" revision="potatoOS" remote="ANDROID2468" >
+    <linkfile src="buildAll.sh" dest="buildAll.sh" />
+  </project>
+ 
+</manifest>
