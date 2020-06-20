@@ -46,7 +46,7 @@
 
   <!-- DEVICE TREES
   #####################################################-->
-  <project name="android_device_lge_g4-common" path="device/lge/g4-common" remote="LG-G4-POSP" revision="potato-9.0" />
+  <project name="device_lge_g4-common" path="device/lge/g4-common" remote="LG-G4-POSP" revision="pie" />
   <project name="android_device_lge_g4" path="device/lge/g4" remote="LG-G4-POSP" revision="potato-9.0" />
 
   <!-- LOS STUFF
