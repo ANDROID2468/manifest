@@ -9,7 +9,7 @@
 
   <!-- DEVICE TREES
   #####################################################-->
-  <project name="android_device_lge_g4-common" path="device/lge/g4-common" remote="suicide" revision="lineage-17.0_kessaras" />
+  <project name="device_lge_g4-common" path="device/lge/g4-common" remote="LG-G4-POSP" revision="potato-10" />
   <project name="android_device_lge_g4" path="device/lge/g4" remote="LG-G4-POSP" revision="potato-10" />
 
   <!-- LOS STUFF
