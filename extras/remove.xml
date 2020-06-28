@@ -22,7 +22,7 @@
   <remove-project name="device/sample" />
 
   <!-- Remove unused hardware repos -->
-  <remove-project name="platform/hardware/broadcom/libbt" />
+  <remove-project name="platform/hardware/broadcom/libbt" groups="pdk"  />
   <remove-project name="platform/hardware/qcom/audio" />
   <remove-project name="platform/hardware/qcom/bt" />
   <remove-project name="platform/hardware/qcom/bootctrl" />
