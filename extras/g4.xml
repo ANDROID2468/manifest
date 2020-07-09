@@ -5,7 +5,7 @@
   <!-- | LG G4 stuff | -->
   <!-- KERNEL
   #####################################################-->
-  <project name="Titan-Kernel-LG-G4" path="kernel/lge/msm8992" remote="suicide" revision="android-10.0_kessaras" />
+  <project name="Titan-Kernel-LG-G4" path="kernel/lge/msm8992" remote="suicide" revision="android-10.0_sfx" />
 
   <!-- DEVICE TREES
   #####################################################-->
