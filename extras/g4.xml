@@ -5,7 +5,7 @@
   <!-- | LG G4 stuff | -->
   <!-- KERNEL
   #####################################################-->
-  <project name="Titan-Kernel-LG-G4" path="kernel/lge/msm8992" remote="suicide" revision="android-10.0_sfx" />
+  <project name="Titan-Kernel-LG-G4" path="kernel/lge/msm8992" remote="suicide" revision="android-10.0_kessaras" />
 
   <!-- DEVICE TREES
   #####################################################-->
@@ -19,7 +19,7 @@
 
   <!-- MISC
   #####################################################-->
-  <project path="vendor/lge" name="proprietary_vendor_lge" remote="suicide" revision="android-9.0" />
+  <project path="vendor/lge" name="proprietary_vendor_lge" remote="suicide" revision="android-10.0" />
 
   <!-- Broadcom BT voice FIX
   #####################################################-->
