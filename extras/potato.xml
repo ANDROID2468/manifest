@@ -98,5 +98,5 @@
   <!-- <project name="AgentFabulous/PotatoCenter" path="packages/apps/PotatoCenter" revision="refs/heads/baked-release" remote="github" /> -->
 
   <!-- proprietary apps -->
-  <project name="ANDROID2468/proprietary_vendor_apps" path="vendor/apps" remote="gitlab" revision="master" />
+  <project name="proprietary_vendor_apps" path="vendor/apps" remote="ANDROID2468" revision="master" />
 </manifest>
