@@ -20,7 +20,8 @@
            revision="lineage-16.0" />
 
   <remote  name="LG-G4-POSP"
-           fetch="https://github.com/LG-G4-POSP/" />
+           fetch="https://github.com/LG-G4-POSP/"
+           revision="refs/heads/baked-release" />
 
   <remote  name="ANDROID2468"
            fetch="https://github.com/ANDROID2468/" />
