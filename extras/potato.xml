@@ -55,7 +55,7 @@
   <project name="packages_services_Telephony"    path="packages/services/Telephony"    remote="potato" />
   <project name="prebuilts_build-tools"          path="prebuilts/build-tools"          remote="potato" />
   <project name="prebuilts_gradle"               path="prebuilts/gradle"               remote="potato" />
-  <project name="system_bt"                      path="system/bt"                      remote="potato" />
+  <project name="system_bt"                      path="system/bt"                      remote="LG-G4-POSP" />
   <project name="system_connectivity_wificond"   path="system/connectivity/wificond"   remote="potato" />
   <project name="system_core"                    path="system/core"                    remote="potato" />
   <project name="system_netd"                    path="system/netd"                    remote="potato" />
