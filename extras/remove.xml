@@ -119,5 +119,7 @@
   <remove-project name="platform/packages/apps/Gallery2" />
   <!-- using Modded Google Camera by BSG: https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/ -->
   <remove-project name="platform/packages/apps/Camera2" />
+
+  <remove-project name="platform/packages/apps/Messaging" />
   <remove-project name="platform/hardware/broadcom/libbt" />
 </manifest>
