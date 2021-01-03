@@ -99,4 +99,7 @@
 
   <!-- proprietary apps -->
   <project name="proprietary_vendor_apps" path="vendor/apps" remote="ANDROID2468" revision="master" />
+
+  <!-- MicroG -->
+  <project name="android_vendor_microg"                      path="vendor/microg"                      remote="LG-G4-POSP" />
 </manifest>
