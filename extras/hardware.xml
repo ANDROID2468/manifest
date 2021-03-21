@@ -42,7 +42,7 @@
   <!-- | LG G4 stuff | -->
   <!-- KERNEL
   #####################################################-->
-  <project name="Titan-Kernel-LG-G4" path="kernel/lge/msm8992" remote="suicide" revision="android-9.0_sfx" />
+  <project name="Titan-Kernel-LG-G4" path="kernel/lge/msm8992" remote="LG-G4-POSP" revision="android-9.0_sfx" />
 
   <!-- DEVICE TREES
   #####################################################-->
